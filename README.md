@@ -1,8 +1,3 @@
-# Conrad Ernst – AI & ML Researcher  
-
-<div align="center">
-  <img src="/images/profile.jpeg" alt="Profile Picture" width="150" height="150">
-</div>
 
 ## **About Me**  
 Hello! I’m **Conrad Ernst**, a research assistant at the **University of Colorado Boulder** in the **Programming Language and Verification Lab**. Previously, I earned my **Bachelor’s in Computer Science, Data Analytics, and Artificial Intelligence** from **Drake University**.
@@ -35,6 +30,10 @@ I led the **LLM development & integration**, optimizing dialogue quality and inc
 
 ## **2️⃣ RAG-Based Educational Generative AI**  
 🧩 **Technologies Used:** Retrieval-Augmented Generation (RAG), LLMs, NLP  
+
+<div align="center">
+  <img src="/images/EducationPrez.jpeg" alt="Screenshot of GenAI Educational Presentation" width="500">
+</div>
 
 ### **🔹 Overview**  
 As part of an **Advanced NLP course**, I developed an **educational content generation system** using **Retrieval-Augmented Generation (RAG)** with a **pretrained LLM**.  
