@@ -7,9 +7,9 @@ Now, I am transitioning into industry, applying my expertise to **building scala
 📖 **Explore my AI learning platform** → [Intro to AI](https://conradernst.github.io/IntroAI.github.io/)  
 
 ---
-# ** Personal Projects**
+# **Personal Projects**
 
-## **1️⃣ [LLM API SaaS PlaLorm]**
+## **1️⃣ LLM API SaaS PlaLorm**
 **Technologies Used:** Python, FastAPI, PostgreSQL, Redis, Amazon Bedrock
 
 <div align="center">
@@ -25,7 +25,7 @@ Key Features:
 - **Fine-tuning pipeline** – Continuously improves JSON accuracy and adaptability for custom schemas
 
 
-# ** Academic Projects**  
+# **Academic Projects**  
 
 ## **1️⃣ [CV-Based Virtual Therapist](https://github.com/ConradErnst/CS_191_Capstone)**  
  **Technologies Used:** Python, OpenAI API, Emotion Detection, Facial Animation, Speech Synthesis  
