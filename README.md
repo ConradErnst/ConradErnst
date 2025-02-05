@@ -9,7 +9,7 @@ Now, I am transitioning into industry, applying my expertise to **building scala
 ---
 # **Personal Projects**
 
-## **1️⃣ LLM API SaaS PlaLorm**
+## **1️⃣ LLM API SaaS Platform**
 **Technologies Used:** Python, FastAPI, PostgreSQL, Redis, Amazon Bedrock
 
 <div align="center">
