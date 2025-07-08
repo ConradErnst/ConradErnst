@@ -1,8 +1,7 @@
 
 ## **About Me**  
-Hello! I’m **Conrad Ernst**, a machine learning engineer with a background in AI, Backend systems, and ML Infra. I previously worked as a research assistant at the **University of Colorado Boulder** in the **Programming Language and Verification Lab**, focusing on **reinforcement learning (RL) and neurosymbolic AI**. Before that, I earned my **Bachelor’s in Computer Science, Data Analytics, and Artificial Intelligence** from **Drake University**.
+Hello! I’m **Conrad Ernst**, a software engineer with a strong background in artificial intelligence, large-scale data systems, and machine learning infrastructure. I am currently working as a Data Engineer and previously served as a research assistant at the **University of Colorado Boulder** in the **Programming Language and Verification Lab**, where I focused on **reinforcement learning (RL) and neurosymbolic AI**. Prior to that, I earned my **Bachelor’s degree triple majoring in Computer Science, Data Analytics, and Artificial Intelligence** from **Drake University**.
 
-Now, I am transitioning into industry, applying my expertise to **building scalable AI systems, optimizing ML workflows, and bridging research with real-world applications**. I am passionate about **continuous learning and collaboration** and actively contribute to open-source AI education.
 
 📖 **Explore my AI learning platform** → [Intro to AI](https://conradernst.github.io/IntroAI.github.io/)  
 
